@@ -1,0 +1,30 @@
+generated: '2026-07-20'
+method: searched
+source: https://portside.co/security-policy/
+notes: >-
+  Portside publishes a security policy page describing its security posture.
+  The ISO 27001/27017/27018, SOC 1/2/3 (SSAE 16 / ISAE 3402), and PCI DSS
+  Level 1 certifications named on that page are held by Portside's underlying
+  AWS infrastructure provider, not audited certifications of Portside itself.
+  GDPR compliance is Portside's own stated commitment for EU operations.
+  Encryption claims (AES-256 at rest, TLS 1.2/1.3 in transit) are corroborated
+  by the live TLS probe (see security/portside-domain-security.yml, TLSv1.3).
+standards:
+- id: gdpr
+  conforms: true
+  evidence: security-policy page states GDPR compliance for EU operations (Portside's own claim)
+- id: tls-1.3
+  conforms: true
+  evidence: live TLS probe of portside.co negotiated TLSv1.3
+- id: aes-256-at-rest
+  conforms: true
+  evidence: security-policy page states 256-bit AES encryption at rest
+- id: soc2
+  conforms: false
+  evidence: SOC 2 named on security page but attributed to AWS infrastructure, not a Portside audit
+- id: iso-27001
+  conforms: false
+  evidence: ISO 27001/27017/27018 named on security page but attributed to AWS infrastructure
+- id: pci-dss
+  conforms: false
+  evidence: PCI DSS Level 1 named on security page but attributed to AWS infrastructure

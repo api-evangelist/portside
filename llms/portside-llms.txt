@@ -1,0 +1,40 @@
+# Portside
+
+> Cloud-based business aviation management software (Cary, NC; backed by Insight Partners). The Portside Platform is a suite of modular applications for corporate flight departments, charter and managed fleets, aircraft management companies, business jet owners, and government/military aviation across 30+ countries. Portside does not publish a public developer API or self-service developer portal — integrations are arranged directly with the Portside team.
+
+## Products
+- [Integrated Platform for Business Aviation](https://portside.co/product/integrated-platform-for-business-aviation)
+- [Scheduling & Flight Operations Management](https://portside.co/product/scheduling-flight-operations-management-systems)
+- [Fleet and Crew Optimization](https://portside.co/product/fleet-and-crew-optimization)
+- [Crew Staffing Marketplace](https://portside.co/product/crew-staffing-marketplace)
+- [Managed Aircraft Customer Billing](https://portside.co/product/managed-aircraft-customer-billing)
+- [Aviation Reporting and Analytics](https://portside.co/product/aviation-reporting-and-analytics)
+- [Aircraft Owner Portal](https://portside.co/product/business-aviation-aircraft-owner-portal)
+- [Safety Management System (SMS)](https://portside.co/product/safety-management-system)
+- [RiskAssist Flight Risk Assessment](https://portside.co/product/riskassist-flight-risk-assessment-tool)
+- [Hotel & Car Reservations](https://portside.co/product/hotel-car-reservations)
+- [Custom Solutions](https://portside.co/product/business-aviation-custom-solutions)
+
+## Solutions
+- [Business Jet Management Companies](https://portside.co/solutions/business-jet-management-companies)
+- [Charter & Managed Fleets (Part 135)](https://portside.co/solutions/charter-and-managed-fleets-part-135)
+- [Corporate Flight Departments (Part 91)](https://portside.co/solutions/corporate-flight-departments-part-91)
+- [Business Jet Owners](https://portside.co/solutions/business-jet-owners)
+- [Government and Military](https://portside.co/solutions/government-and-military)
+- [Business Aviation Crew](https://portside.co/solutions/business-aviation-crew)
+- [Schedulers and Dispatchers](https://portside.co/solutions/schedulers-and-dispatchers)
+- [Finance and Accounting](https://portside.co/solutions/business-jet-finance-and-accounting)
+
+## Docs
+- [Integrations](https://portside.co/integrations)
+- [Technology](https://portside.co/technology)
+- [Security Policy](https://portside.co/security-policy/)
+- [Support](https://portside.co/support)
+
+## About
+- [Company](https://portside.co/about)
+- [Newsroom](https://portside.co/newsroom)
+- [Customers](https://portside.co/customers)
+- [Application Login](https://app.portside.co)
+- [Terms of Service](https://portside.co/terms-of-service/)
+- [Privacy Policy](https://portside.co/privacy-policy/)
